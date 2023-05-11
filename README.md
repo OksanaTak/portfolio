@@ -61,7 +61,7 @@ The following subtasks must be done:
 
 The following animation shows the web application's appearance and functionality:
 
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+![portfolio demo](./assets/02-advanced-css-homework-demo.gif)
 
 
 ## Grading Requirements
