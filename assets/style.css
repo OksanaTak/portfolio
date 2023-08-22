@@ -113,11 +113,11 @@ width: 100%;
 position: relative;
 }
 .project-description {
-  width: 45%;
+  width: 25%;
   position: absolute ;
-  left: 5px;
-  bottom: 10px;
-  background-color: rgb(242, 220, 122);
+ right: 5px;
+bottom: 10px;
+  background-color: rgb(142, 90, 191);
 } 
 #main-project{
   width: 95%;
@@ -141,7 +141,7 @@ footer{
   position:fixed;
   text-align:center;
   bottom:0;
-  background-color: rgb(142, 90, 191);
+  background-color: rgb(142, 90, 191);;
 }
 
 #resume .col-2{
