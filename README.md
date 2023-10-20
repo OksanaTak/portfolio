@@ -24,8 +24,7 @@ The code for this landing page was provided by Horiseon Social Solution Services
 This landing page is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Screenshot
-<img src="./assets/ProfilePageScreenshot"/>
- />
+<img src="./assets/ProfilePageScreenshot.png"/>
 
 Link
 [GitHub](https://github.com/OksanaTak/portfolio)
