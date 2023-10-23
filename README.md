@@ -28,5 +28,4 @@ This landing page is licensed under the [MIT License](https://opensource.org/lic
 
 Link
 [GitHub](https://github.com/OksanaTak/portfolio)
-file:///Users/oksanatatsyak/bootcamp/challenges/portfolio/index.html
-
+[Website](https://oksanatak.github.io/portfolio/)
